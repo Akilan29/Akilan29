@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muthu Kirshnan
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Drools
-- 📫 How to reach me -akilankarthic@gmail.com
+- 📫 How to reach me akilankarthic@gmail.com
 - 😄 Pronouns: ...He/Him
 
 
